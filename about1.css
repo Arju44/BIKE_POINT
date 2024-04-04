@@ -1,0 +1,19 @@
+body {
+  background-color:  #434241; 
+}
+.submain h1{
+  color: white;
+  padding: 50px 10px 10px 10px;
+
+}
+h1{
+  color: white;
+  font-size: 20px;
+}
+.sub img{
+  height: 200px;
+  width: auto;
+  float: left; /* Float the container to the left */
+  margin-right: 20px; /* Add margin on the right side to create space */
+  
+}
